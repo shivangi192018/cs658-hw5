@@ -1,0 +1,7 @@
+With the PView process viewer (PVIEW.EXE), you can examine and modify many characteristics of the processes and threads running on your system.PView can help you answer questions such as these:
+
+How much memory does the program allocate at various points in its execution, and how much memory is being paged out?
+Which processes and threads are using the most CPU time?
+How does the program run at different system priorities?
+What happens if a thread or process stops responding to Dynamic Data Exchange (DDE), or pipe input/output (I/O)?
+What percentage of time is spent running application program interface (API) calls?
